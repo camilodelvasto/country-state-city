@@ -242106,7 +242106,7 @@
 	},
 	{
 		"id": "48420",
-		"name": "San josé de Uré",
+		"name": "San José de Uré",
 		"state_id": "788"
 	},
 	{
@@ -242193,5 +242193,215 @@
 		"id": "48437",
 		"name": "Villanueva",
 		"state_id": "793"
+	},
+	{
+		"id": "48438",
+		"name": "	Ábrego",
+		"state_id": "797"
+	},
+	{
+		"id": "48439",
+		"name": "Arboledas",
+		"state_id": "797"
+	},
+	{
+		"id": "48440",
+		"name": "Bochalema",
+		"state_id": "797"
+	},
+	{
+		"id": "48441",
+		"name": "Bucarasica",
+		"state_id": "797"
+	},
+	{
+		"id": "48442",
+		"name": "Cáchira",
+		"state_id": "797"
+	},
+	{
+		"id": "48443",
+		"name": "Cácota",
+		"state_id": "797"
+	},
+	{
+		"id": "48444",
+		"name": "Chinácota",
+		"state_id": "797"
+	},
+	{
+		"id": "48445",
+		"name": "Chitagá",
+		"state_id": "797"
+	},
+	{
+		"id": "48446",
+		"name": "Convención",
+		"state_id": "797"
+	},
+	{
+		"id": "48447",
+		"name": "Cúcuta",
+		"state_id": "797"
+	},
+	{
+		"id": "48448",
+		"name": "Cucutilla",
+		"state_id": "797"
+	},
+	{
+		"id": "48449",
+		"name": "Durania",
+		"state_id": "797"
+	},
+	{
+		"id": "48450",
+		"name": "El Carmen",
+		"state_id": "797"
+	},
+	{
+		"id": "48451",
+		"name": "El Tarra",
+		"state_id": "797"
+	},
+	{
+		"id": "48452",
+		"name": "El Zulia",
+		"state_id": "797"
+	},
+	{
+		"id": "48453",
+		"name": "Gramalote",
+		"state_id": "797"
+	},
+	{
+		"id": "48454",
+		"name": "Hacarí",
+		"state_id": "797"
+	},
+	{
+		"id": "48455",
+		"name": "Herrán",
+		"state_id": "797"
+	},
+	{
+		"id": "48456",
+		"name": "La Esperanza",
+		"state_id": "797"
+	},
+	{
+		"id": "48457",
+		"name": "La Playa de Belén",
+		"state_id": "797"
+	},
+	{
+		"id": "48458",
+		"name": "Labateca",
+		"state_id": "797"
+	},
+	{
+		"id": "48459",
+		"name": "Los Patios",
+		"state_id": "797"
+	},
+	{
+		"id": "48460",
+		"name": "Lourdes",
+		"state_id": "797"
+	},
+	{
+		"id": "48461",
+		"name": "Mutiscua",
+		"state_id": "797"
+	},
+	{
+		"id": "48462",
+		"name": "Ocaña",
+		"state_id": "797"
+	},
+	{
+		"id": "48463",
+		"name": "Pamplona",
+		"state_id": "797"
+	},
+	{
+		"id": "48464",
+		"name": "Pamplonita",
+		"state_id": "797"
+	},
+	{
+		"id": "48465",
+		"name": "Puerto Santander",
+		"state_id": "797"
+	},
+	{
+		"id": "48466",
+		"name": "Ragonvalia",
+		"state_id": "797"
+	},
+	{
+		"id": "48467",
+		"name": "Salazar de Las Palmas",
+		"state_id": "797"
+	},
+	{
+		"id": "48468",
+		"name": "San Calixto",
+		"state_id": "797"
+	},
+	{
+		"id": "48469",
+		"name": "San Cayetano",
+		"state_id": "797"
+	},
+	{
+		"id": "48470",
+		"name": "Santiago",
+		"state_id": "797"
+	},
+	{
+		"id": "48471",
+		"name": "Santo Domingo de Silos",
+		"state_id": "797"
+	},
+	{
+		"id": "48472",
+		"name": "Sardinata",
+		"state_id": "797"
+	},
+	{
+		"id": "48473",
+		"name": "Teorama",
+		"state_id": "797"
+	},
+	{
+		"id": "48474",
+		"name": "Tibú",
+		"state_id": "797"
+	},
+	{
+		"id": "48475",
+		"name": "Toledo",
+		"state_id": "797"
+	},
+	{
+		"id": "48476",
+		"name": "Villa Caro",
+		"state_id": "797"
+	},
+	{
+		"id": "48477",
+		"name": "Villa del Rosario",
+		"state_id": "797"
+	},
+	{
+		"id": "48478",
+		"name": "San Andrés",
+		"state_id": "801"
+	},
+	{
+		"id": "48479",
+		"name": "Providencia",
+		"state_id": "802"
 	}
 ]
