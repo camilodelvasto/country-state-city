@@ -1,6 +1,6 @@
 {
   "name": "country-state-city",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "description": "Library for fetching Country, its States and Cities (with Colombian cities in Spanish) —based on harpreetkhalsagtbit/country-state-city by harpreetkhalsagtbit@gmail.com",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

@@ -13,5 +13,5 @@ export interface ICity {
     id: string;
     name: string;
     state_id: string;
-    location: string;
+    location: string | number;
 }
