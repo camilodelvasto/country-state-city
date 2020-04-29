@@ -62717,7 +62717,11 @@
 	{
 		"id": "12544",
 		"name": "Apartadó",
-		"state_id": "776"
+		"state_id": "776",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 7.8829899, -76.6258698 ]
+		}
 	},
 	{
 		"id": "12545",
@@ -62732,7 +62736,11 @@
 	{
 		"id": "12547",
 		"name": "Armenia",
-		"state_id": "776"
+		"state_id": "776",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 6.1563902, -75.7872162 ]
+		}
 	},
 	{
 		"id": "12548",
@@ -62742,7 +62750,11 @@
 	{
 		"id": "12549",
 		"name": "Bello",
-		"state_id": "776"
+		"state_id": "776",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 6.3373199, -75.5579529 ]
+		}
 	},
 	{
 		"id": "12550",
@@ -62887,7 +62899,11 @@
 	{
 		"id": "12578",
 		"name": "Envigado",
-		"state_id": "776"
+		"state_id": "776",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 6.17591, -75.5917435 ]
+		}
 	},
 	{
 		"id": "12579",
@@ -62947,7 +62963,11 @@
 	{
 		"id": "12590",
 		"name": "Itagüí",
-		"state_id": "776"
+		"state_id": "776",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 6.1846099, -75.5991287 ]
+		}
 	},
 	{
 		"id": "12591",
@@ -63002,7 +63022,11 @@
 	{
 		"id": "12601",
 		"name": "Medellín",
-		"state_id": "776"
+		"state_id": "776",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 6.2518401, -75.563591 ]
+		}
 	},
 	{
 		"id": "12602",
@@ -63082,7 +63106,11 @@
 	{
 		"id": "12617",
 		"name": "Rionegro",
-		"state_id": "776"
+		"state_id": "776",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 6.1551499, -75.3737106 ]
+		}
 	},
 	{
 		"id": "12618",
@@ -63222,7 +63250,11 @@
 	{
 		"id": "12645",
 		"name": "Turbo",
-		"state_id": "776"
+		"state_id": "776",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 8.0926304, -76.7282181 ]
+		}
 	},
 	{
 		"id": "12646",
@@ -63327,7 +63359,11 @@
 	{
 		"id": "12666",
 		"name": "Barranquilla",
-		"state_id": "778"
+		"state_id": "778",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 11.0041072, -74.8069813 ]
+		}
 	},
 	{
 		"id": "12667",
@@ -63357,7 +63393,11 @@
 	{
 		"id": "12672",
 		"name": "Malambo",
-		"state_id": "778"
+		"state_id": "778",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 10.8595304, -74.7738571 ]
+		}
 	},
 	{
 		"id": "12673",
@@ -63402,7 +63442,11 @@
 	{
 		"id": "12681",
 		"name": "Sabanalarga",
-		"state_id": "778"
+		"state_id": "778",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 10.6296196, -74.9206314 ]
+		}
 	},
 	{
 		"id": "12682",
@@ -63417,7 +63461,11 @@
 	{
 		"id": "12684",
 		"name": "Soledad",
-		"state_id": "778"
+		"state_id": "778",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 10.9184303, -74.7645874 ]
+		}
 	},
 	{
 		"id": "12685",
@@ -63437,7 +63485,11 @@
 	{
 		"id": "12688",
 		"name": "Bogotá DC",
-		"state_id": "779"
+		"state_id": "779",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 4.6097102, -74.081749 ]
+		}
 	},
 	{
 		"id": "12689",
@@ -63482,7 +63534,11 @@
 	{
 		"id": "12697",
 		"name": "Cartagena",
-		"state_id": "780"
+		"state_id": "780",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 10.3932277, -75.4832311 ]
+		}
 	},
 	{
 		"id": "12698",
@@ -63522,7 +63578,11 @@
 	{
 		"id": "12705",
 		"name": "Magangué",
-		"state_id": "780"
+		"state_id": "780",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 9.2420197, -74.7546692 ]
+		}
 	},
 	{
 		"id": "12706",
@@ -63647,7 +63707,11 @@
 	{
 		"id": "12730",
 		"name": "Turbaco",
-		"state_id": "780"
+		"state_id": "780",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 10.3294401, -75.4113693 ]
+		}
 	},
 	{
 		"id": "12731",
@@ -63817,7 +63881,11 @@
 	{
 		"id": "12764",
 		"name": "Duitama",
-		"state_id": "781"
+		"state_id": "781",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 5.8245001, -73.0340805 ]
+		}
 	},
 	{
 		"id": "12765",
@@ -64147,7 +64215,11 @@
 	{
 		"id": "12830",
 		"name": "Sogamoso",
-		"state_id": "781"
+		"state_id": "781",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 5.7143402, -72.9339066 ]
+		}
 	},
 	{
 		"id": "12831",
@@ -64237,7 +64309,11 @@
 	{
 		"id": "12848",
 		"name": "Tunja",
-		"state_id": "781"
+		"state_id": "781",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 5.5446422, -73.3575572 ]
+		}
 	},
 	{
 		"id": "12849",
@@ -64322,7 +64398,11 @@
 	{
 		"id": "12865",
 		"name": "Manizales",
-		"state_id": "782"
+		"state_id": "782",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 5.0688901, -75.5173798 ]
+		}
 	},
 	{
 		"id": "12866",
@@ -64447,7 +64527,11 @@
 	{
 		"id": "12890",
 		"name": "Florencia",
-		"state_id": "783"
+		"state_id": "783",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 1.61438, -75.6062317 ]
+		}
 	},
 	{
 		"id": "12891",
@@ -64587,7 +64671,11 @@
 	{
 		"id": "12918",
 		"name": "Yopal",
-		"state_id": "784"
+		"state_id": "784",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 5.33775, -72.3958588 ]
+		}
 	},
 	{
 		"id": "12919",
@@ -64717,7 +64805,11 @@
 	{
 		"id": "12944",
 		"name": "Popayán",
-		"state_id": "785"
+		"state_id": "785",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 2.43823, -76.6131592 ]
+		}
 	},
 	{
 		"id": "12945",
@@ -64747,7 +64839,11 @@
 	{
 		"id": "12950",
 		"name": "Santander de Quilichao",
-		"state_id": "785"
+		"state_id": "785",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 3.00945, -76.4849396 ]
+		}
 	},
 	{
 		"id": "12951",
@@ -64797,7 +64893,11 @@
 	{
 		"id": "12960",
 		"name": "Aguachica",
-		"state_id": "786"
+		"state_id": "786",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 8.3084402, -73.6166 ]
+		}
 	},
 	{
 		"id": "12961",
@@ -64917,7 +65017,11 @@
 	{
 		"id": "12984",
 		"name": "Valledupar",
-		"state_id": "786"
+		"state_id": "786",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 10.4631395, -73.2532196 ]
+		}
 	},
 	{
 		"id": "12985",
@@ -65027,7 +65131,11 @@
 	{
 		"id": "13006",
 		"name": "Quibdó",
-		"state_id": "787"
+		"state_id": "787",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 5.6918802, -76.6583481 ]
+		}
 	},
 	{
 		"id": "13007",
@@ -65087,7 +65195,11 @@
 	{
 		"id": "13018",
 		"name": "Cereté",
-		"state_id": "788"
+		"state_id": "788",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 8.8847904, -75.7905197 ]
+		}
 	},
 	{
 		"id": "13019",
@@ -65116,8 +65228,12 @@
 	},
 	{
 		"id": "13024",
-		"name": "Santa Cruz de Lorica",
-		"state_id": "788"
+		"name": "Lorica",
+		"state_id": "788",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 9.2364798, -75.8134995 ]
+		}
 	},
 	{
 		"id": "13025",
@@ -65142,7 +65258,11 @@
 	{
 		"id": "13029",
 		"name": "Montería",
-		"state_id": "788"
+		"state_id": "788",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 8.750983, -75.8785348 ]
+		}
 	},
 	{
 		"id": "13030",
@@ -65172,7 +65292,11 @@
 	{
 		"id": "13035",
 		"name": "Sahagún",
-		"state_id": "788"
+		"state_id": "788",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 8.9461699, -75.442749 ]
+		}
 	},
 	{
 		"id": "13036",
@@ -65287,7 +65411,11 @@
 	{
 		"id": "13058",
 		"name": "Chía",
-		"state_id": "789"
+		"state_id": "789",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 4.8587599, -74.0586624 ]
+		}
 	},
 	{
 		"id": "13059",
@@ -65337,7 +65465,11 @@
 	{
 		"id": "13068",
 		"name": "Facatativá",
-		"state_id": "789"
+		"state_id": "789",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 4.8136702, -74.3545303 ]
+		}
 	},
 	{
 		"id": "13069",
@@ -65352,7 +65484,11 @@
 	{
 		"id": "13071",
 		"name": "Funza",
-		"state_id": "789"
+		"state_id": "789",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 4.7163801, -74.2119522 ]
+		}
 	},
 	{
 		"id": "13072",
@@ -65362,7 +65498,11 @@
 	{
 		"id": "13073",
 		"name": "Fusagasugá",
-		"state_id": "789"
+		"state_id": "789",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 4.3364601, -74.3637772 ]
+		}
 	},
 	{
 		"id": "13074",
@@ -65387,7 +65527,11 @@
 	{
 		"id": "13078",
 		"name": "Girardot",
-		"state_id": "789"
+		"state_id": "789",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 4.3007898, -74.8075409 ]
+		}
 	},
 	{
 		"id": "13079",
@@ -65482,7 +65626,11 @@
 	{
 		"id": "13097",
 		"name": "Madrid",
-		"state_id": "789"
+		"state_id": "789",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 4.73245, -74.2641907 ]
+		}
 	},
 	{
 		"id": "13098",
@@ -65497,7 +65645,11 @@
 	{
 		"id": "13100",
 		"name": "Mosquera",
-		"state_id": "789"
+		"state_id": "789",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 4.7059202, -74.2302094 ]
+		}
 	},
 	{
 		"id": "13101",
@@ -65642,7 +65794,11 @@
 	{
 		"id": "13129",
 		"name": "Soacha",
-		"state_id": "789"
+		"state_id": "789",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 4.5827227, -74.2117465 ]
+		}
 	},
 	{
 		"id": "13130",
@@ -65787,7 +65943,11 @@
 	{
 		"id": "13158",
 		"name": "Zipaquirá",
-		"state_id": "789"
+		"state_id": "789",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 5.0220799, -74.0048065 ]
+		}
 	},
 	{
 		"id": "13159",
@@ -65907,7 +66067,11 @@
 	{
 		"id": "13182",
 		"name": "Neiva",
-		"state_id": "792"
+		"state_id": "792",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 2.9273, -75.2818909 ]
+		}
 	},
 	{
 		"id": "13183",
@@ -65937,7 +66101,11 @@
 	{
 		"id": "13188",
 		"name": "Pitalito",
-		"state_id": "792"
+		"state_id": "792",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 1.8537101, -76.0507126 ]
+		}
 	},
 	{
 		"id": "13189",
@@ -66027,7 +66195,11 @@
 	{
 		"id": "13206",
 		"name": "Ciénaga",
-		"state_id": "794"
+		"state_id": "794",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 11.0070295, -74.2476501 ]
+		}
 	},
 	{
 		"id": "13207",
@@ -66127,7 +66299,11 @@
 	{
 		"id": "13226",
 		"name": "Santa Marta",
-		"state_id": "794"
+		"state_id": "794",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 11.2407904, -74.1990433 ]
+		}
 	},
 	{
 		"id": "13227",
@@ -66287,7 +66463,11 @@
 	{
 		"id": "13258",
 		"name": "Villavicencio",
-		"state_id": "795"
+		"state_id": "795",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 4.1420002, -73.6266403 ]
+		}
 	},
 	{
 		"id": "13259",
@@ -66427,7 +66607,11 @@
 	{
 		"id": "13286",
 		"name": "Ipiales",
-		"state_id": "796"
+		"state_id": "796",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 0.83018, -77.6495895 ]
+		}
 	},
 	{
 		"id": "13287",
@@ -66502,7 +66686,11 @@
 	{
 		"id": "13301",
 		"name": "Pasto",
-		"state_id": "796"
+		"state_id": "796",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 1.2136101, -77.2811127 ]
+		}
 	},
 	{
 		"id": "13302",
@@ -66602,7 +66790,11 @@
 	{
 		"id": "13321",
 		"name": "Tumaco",
-		"state_id": "796"
+		"state_id": "796",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 1.79861, -78.8155594 ]
+		}
 	},
 	{
 		"id": "13322",
@@ -66757,7 +66949,11 @@
 	{
 		"id": "13352",
 		"name": "Dosquebradas",
-		"state_id": "800"
+		"state_id": "800",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 4.83916, -75.6672668 ]
+		}
 	},
 	{
 		"id": "13353",
@@ -66787,7 +66983,11 @@
 	{
 		"id": "13358",
 		"name": "Pereira",
-		"state_id": "800"
+		"state_id": "800",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 4.8087174, -75.690601 ]
+		}
 	},
 	{
 		"id": "13359",
@@ -66837,7 +67037,11 @@
 	{
 		"id": "13368",
 		"name": "Barrancabermeja",
-		"state_id": "802"
+		"state_id": "802",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 7.06528, -73.8547211 ]
+		}
 	},
 	{
 		"id": "13369",
@@ -66852,7 +67056,11 @@
 	{
 		"id": "13371",
 		"name": "Bucaramanga",
-		"state_id": "802"
+		"state_id": "802",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 7.119349, -73.1227416 ]
+		}
 	},
 	{
 		"id": "13372",
@@ -66972,7 +67180,11 @@
 	{
 		"id": "13395",
 		"name": "Floridablanca",
-		"state_id": "802"
+		"state_id": "802",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 7.0622201, -73.086441 ]
+		}
 	},
 	{
 		"id": "13396",
@@ -66987,7 +67199,11 @@
 	{
 		"id": "13398",
 		"name": "Girón",
-		"state_id": "802"
+		"state_id": "802",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 7.0682001, -73.1698074 ]
+		}
 	},
 	{
 		"id": "13399",
@@ -67112,7 +67328,11 @@
 	{
 		"id": "13423",
 		"name": "Piedecuesta",
-		"state_id": "802"
+		"state_id": "802",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 6.9878898, -73.04953 ]
+		}
 	},
 	{
 		"id": "13424",
@@ -67352,7 +67572,11 @@
 	{
 		"id": "13471",
 		"name": "Sincelejo",
-		"state_id": "803"
+		"state_id": "803",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 9.3047199, -75.3977814 ]
+		}
 	},
 	{
 		"id": "13472",
@@ -67477,7 +67701,11 @@
 	{
 		"id": "13496",
 		"name": "Ibagué",
-		"state_id": "804"
+		"state_id": "804",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 4.43889, -75.2322235 ]
+		}
 	},
 	{
 		"id": "13497",
@@ -236807,7 +237035,11 @@
 	{
 		"id": "47363",
 		"name": "Villa del Rosario",
-		"state_id": "4043"
+		"state_id": "4043",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 7.83389, -72.4741669 ]
+		}
 	},
 	{
 		"id": "47364",
@@ -241592,12 +241824,20 @@
 	{
 		"id": "48320",
 		"name": "Buenaventura",
-		"state_id": "805"
+		"state_id": "805",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 3.5833299, -77 ]
+		}
 	},
 	{
 		"id": "48321",
 		"name": "Buga",
-		"state_id": "805"
+		"state_id": "805",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 3.9008901, -76.2978287 ]
+		}
 	},
 	{
 		"id": "48322",
@@ -241612,7 +241852,11 @@
 	{
 		"id": "48324",
 		"name": "Cali",
-		"state_id": "805"
+		"state_id": "805",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 3.4372201, -76.5224991 ]
+		}
 	},
 	{
 		"id": "48325",
@@ -241627,7 +241871,11 @@
 	{
 		"id": "48327",
 		"name": "Cartago",
-		"state_id": "805"
+		"state_id": "805",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 4.7463899, -75.9116669 ]
+		}
 	},
 	{
 		"id": "48328",
@@ -241671,8 +241919,12 @@
 	},
 	{
 		"id": "48336",
-		"name": "Jamundi",
-		"state_id": "805"
+		"name": "Jamundí",
+		"state_id": "805",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 3.26074, -76.5349884 ]
+		}
 	},
 	{
 		"id": "48337",
@@ -241697,7 +241949,11 @@
 	{
 		"id": "48341",
 		"name": "Palmira",
-		"state_id": "805"
+		"state_id": "805",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 3.5394399, -76.3036118 ]
+		}
 	},
 	{
 		"id": "48342",
@@ -241741,8 +241997,12 @@
 	},
 	{
 		"id": "48350",
-		"name": "Tulua",
-		"state_id": "805"
+		"name": "Tuluá",
+		"state_id": "805",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 4.089869, -76.1914991 ]
+		}
 	},
 	{
 		"id": "48351",
@@ -241767,7 +242027,11 @@
 	{
 		"id": "48355",
 		"name": "Yumbo",
-		"state_id": "805"
+		"state_id": "805",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 3.58234, -76.4914627 ]
+		}
 	},
 	{
 		"id": "48356",
@@ -242162,7 +242426,11 @@
 	{
 		"id": "48431",
 		"name": "Maicao",
-		"state_id": "793"
+		"state_id": "793",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 11.3832102, -72.2432098 ]
+		}
 	},
 	{
 		"id": "48432",
@@ -242172,7 +242440,11 @@
 	{
 		"id": "48433",
 		"name": "Riohacha",
-		"state_id": "793"
+		"state_id": "793",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 11.5444403, -72.9072189 ]
+		}
 	},
 	{
 		"id": "48434",
@@ -242182,7 +242454,11 @@
 	{
 		"id": "48435",
 		"name": "Uribia",
-		"state_id": "793"
+		"state_id": "793",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 11.7138996, -72.266037 ]
+		}
 	},
 	{
 		"id": "48436",
@@ -242242,7 +242518,11 @@
 	{
 		"id": "48447",
 		"name": "Cúcuta",
-		"state_id": "797"
+		"state_id": "797",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 7.8890971, -72.4966896 ]
+		}
 	},
 	{
 		"id": "48448",
@@ -242317,7 +242597,11 @@
 	{
 		"id": "48462",
 		"name": "Ocaña",
-		"state_id": "797"
+		"state_id": "797",
+		"location": {
+			"type": "Point",
+			"coordinates": [ 8.23773, -73.356041 ]
+		}
 	},
 	{
 		"id": "48463",
@@ -242397,7 +242681,8 @@
 	{
 		"id": "48478",
 		"name": "San Andrés",
-		"state_id": "801"
+		"state_id": "801",
+		"coordinates": [ 12.5847197, -81.7005615 ]
 	},
 	{
 		"id": "48479",
