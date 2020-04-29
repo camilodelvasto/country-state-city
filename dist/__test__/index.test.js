@@ -31,9 +31,9 @@ var executeAllTests = function (csc) {
         expect(state).toEqual({ country_id: '101', id: '32', name: 'Punjab' });
     });
     test('Check for City By Id ', function () {
-        var code = '12688';
+        var code = '31439';
         var city = csc.getCityById(code);
-        expect(city).toEqual({ id: '12688', name: 'Bogotá DC', state_id: '779', lat: 4.6097102, long: -74.081749 });
+        expect(city).toEqual({ id: '31439', name: 'Lahore', state_id: '2728' });
     });
     test('Check for Canada States', function () {
         var code = '38';
